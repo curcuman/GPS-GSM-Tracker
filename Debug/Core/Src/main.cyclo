@@ -1,0 +1,15 @@
+../Core/Src/main.c:81:5:main	6
+../Core/Src/main.c:226:6:SystemClock_Config	3
+../Core/Src/main.c:262:6:get_position_send_message	3
+../Core/Src/main.c:307:6:quickBlink	1
+../Core/Src/main.c:319:6:extractCoordinates	2
+../Core/Src/main.c:330:5:found	1
+../Core/Src/main.c:337:5:foundCREG	3
+../Core/Src/main.c:346:5:foundRING	1
+../Core/Src/main.c:353:5:foundMESSAGE	1
+../Core/Src/main.c:360:5:finished	3
+../Core/Src/main.c:373:6:send_with_wait	3
+../Core/Src/main.c:386:6:clean	1
+../Core/Src/main.c:392:6:HAL_UART_RxCpltCallback	1
+../Core/Src/main.c:399:6:HAL_GPIO_EXTI_Callback	1
+../Core/Src/main.c:412:6:Error_Handler	1

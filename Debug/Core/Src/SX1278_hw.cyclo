@@ -1,0 +1,7 @@
+../Core/Src/SX1278_hw.c:14:13:SX1278_hw_init	1
+../Core/Src/SX1278_hw.c:19:13:SX1278_hw_SetNSS	1
+../Core/Src/SX1278_hw.c:24:13:SX1278_hw_Reset	1
+../Core/Src/SX1278_hw.c:35:13:SX1278_hw_SPICommand	2
+../Core/Src/SX1278_hw.c:42:16:SX1278_hw_SPIReadByte	2
+../Core/Src/SX1278_hw.c:53:13:SX1278_hw_DelayMs	1
+../Core/Src/SX1278_hw.c:57:12:SX1278_hw_GetDIO0	1

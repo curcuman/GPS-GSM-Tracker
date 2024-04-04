@@ -1,0 +1,15 @@
+../Core/Src/main.c:81:5:main	16	static
+../Core/Src/main.c:226:6:SystemClock_Config	72	static
+../Core/Src/main.c:262:6:get_position_send_message	32	static
+../Core/Src/main.c:307:6:quickBlink	8	static
+../Core/Src/main.c:319:6:extractCoordinates	24	static
+../Core/Src/main.c:330:5:found	24	static
+../Core/Src/main.c:337:5:foundCREG	32	static
+../Core/Src/main.c:346:5:foundRING	24	static
+../Core/Src/main.c:353:5:foundMESSAGE	24	static
+../Core/Src/main.c:360:5:finished	16	static
+../Core/Src/main.c:373:6:send_with_wait	24	static
+../Core/Src/main.c:386:6:clean	8	static
+../Core/Src/main.c:392:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:399:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:412:6:Error_Handler	4	static,ignoring_inline_asm
